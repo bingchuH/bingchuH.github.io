@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: fc04808440c4236cf559                            #生成的clientID
-  clientSecret: 553feeb74b987e3763b4ba56f8c640bacf67456c    #生成的clientSecret
+  clientID: 72688a1ab09d03bd24cd                            #生成的clientID
+  clientSecret: e7014ba8b1a8eaf66046b804157584fe4920ef2d    #生成的clientSecret
   repo: minnanh.github.io    #仓库名称
-  owner: minnanh    #github用户名
-  admin: minnanh
+  owner: MinnanH    #github用户名
+  admin: MinnanH
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
