@@ -3,15 +3,15 @@ title: 个人修炼之路
 SEOTitle: 
 header-img: img/post-bg-desk.jpg
 email: hanminnan22@mails.ucas.ac.cn
-description: "一个普通人的转码修炼之路"
+description: "一个普通人的修炼之路"
 keyword: "学习记录、心路历程"
-url: "https://minnanh.github.io"          # your host, for absolute URL
+url: "https://bingchuH.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/MinnanH/MinnanH.github.io.git" # you code repository
+github_repo: "https://github.com/bingchuH/bingchuH.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "90后, 双鱼座, INTJ, 现居北京"
+sidebar-about-description: "90后, 双鱼座, 现居沈阳"
 sidebar-avatar: /img/about-MN.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 72688a1ab09d03bd24cd                            #生成的clientID
   clientSecret: e7014ba8b1a8eaf66046b804157584fe4920ef2d    #生成的clientSecret
-  repo: minnanh.github.io    #仓库名称
-  owner: MinnanH    #github用户名
-  admin: MinnanH
+  repo: bingchuH.github.io    #仓库名称
+  owner: bingchuH    #github用户名
+  admin: bingchuH
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "个人知乎主页",
-        href: "https://www.zhihu.com/people/han-da-wan-12"
+        title: "CSDN主页",
+        href: "https://blog.csdn.net/qq_42455246?spm=1000.2115.3001.5343"
     },
     {
         title: "GitHub主页",
-        href: "https://github.com/MinnanH"
+        href: "https://github.com/bingchuH"
     }
 ]
