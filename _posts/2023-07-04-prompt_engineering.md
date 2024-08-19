@@ -7,7 +7,7 @@ author:     MinnanH
 header-img: img/home-bg-o.jpg
 catalog: 	  true
 tags:
-    - 学习笔记
+    - LLM
 ---
 # 系统教程
 吴恩达课程链接：<a src = "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction">ChatGPT Prompt Engineering for Developers</a>
