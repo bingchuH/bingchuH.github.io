@@ -14,8 +14,10 @@ tags:
 
 吴恩达课程笔记：<a src = "https://prompt-engineering.xiniushu.com/">prompt工程指南</a>
 
-进阶：<a src = "https://prompt-guide.xiniushu.com/category/-basics">prompt进阶指南</a>
+#### 进阶：  
+<a src = "https://cookbook.openai.com/">OpenAI cookbook</a>
 
+<a src = "https://prompt-guide.xiniushu.com/category/-basics">prompt进阶指南</a>
 # 常用prompt
 ### 竞品分析
 用ChatGPT做竞品分析真的太方便了！
