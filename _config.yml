@@ -2,7 +2,7 @@
 title: 个人修炼之路
 SEOTitle: 
 header-img: img/post-bg-desk.jpg
-email: hanminnan22@mails.ucas.ac.cn
+email: outloo0ok@outlook.com
 description: "一个普通人的修炼之路"
 keyword: "学习记录、心路历程"
 url: "https://bingchuH.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/bingchuH/bingchuH.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "90后, 双鱼座, 现居沈阳"
+sidebar-about-description: "90后, base上海, AI产品经理"
 sidebar-avatar: /img/about-MN.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
